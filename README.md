@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧔🏻‍♂️ About Me:
 🎓Currently I'm pursuing my B.Tech in domain of Information Technology🏫<br>🤖I have a strong interest in Artificial Intelligence, Machine Learning, and software development 💡<br>📊I have worked on projects involving Python, and machine learning models 🐍<br>🏥I have worked on healthcare-focused projects, where I applied ML concepts to solve practical problems 📈<br>📚I believe in continuous learning and enjoy exploring new technologies and frameworks ✨
 
 
