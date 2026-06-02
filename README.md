@@ -91,17 +91,10 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 - 📖 Going deeper on LLM fine-tuning, Grad-CAM explainability, and RAG evaluation
 - 🎯 Targeting AI/ML internships in **computer vision** or **LLM/RAG systems**
 
----
-## GitHub Stats
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
