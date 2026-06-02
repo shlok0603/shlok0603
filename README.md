@@ -92,21 +92,17 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 - 🎯 Targeting AI/ML internships in **computer vision** or **LLM/RAG systems**
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-shlok0603.vercel.app/api?username=shlok0603&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=shlok0603&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+![Streak](https://nirzak-streak-stats.vercel.app/?user=shlok0603&theme=tokyonight&hide_border=true)
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)
 
 </div>
 
