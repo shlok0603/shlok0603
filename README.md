@@ -1,27 +1,141 @@
-# 🧔🏻‍♂️ About Me:
-🎓Currently I'm pursuing my B.Tech in domain of Information Technology🏫<br>🤖I have a strong interest in Artificial Intelligence, Machine Learning, and software development 💡<br>📊I have worked on projects involving Python, and machine learning models 🐍<br>🏥I have worked on healthcare-focused projects, where I applied ML concepts to solve practical problems 📈<br>📚I believe in continuous learning and enjoy exploring new technologies and frameworks ✨
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=200&section=header&text=Shlok%20Nandwana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=58&descColor=58a6ff" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/AHcBpTuj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shlok-nandwana-74b7a127b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shlok.nandwana@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+RAG;0.92+QWK+on+Diabetic+Retinopathy+Detection;Open+to+AI%2FML+Internships)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shlok0603&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shlok0603&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shlok0603&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shlok%20Nandwana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-nandwana-74b7a127b/)
+[![Email](https://img.shields.io/badge/Email-shlok.nandwana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shlok.nandwana@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shlok0603-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shlok0603)
+![Profile Views](https://komarev.com/ghpvc/?username=shlok0603&style=flat-square&color=58a6ff&label=Profile+Views)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shlok0603&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shlok0603&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I build ML systems that work on **real problems** — not just Kaggle notebooks.
+Most of my work sits at the intersection of **deep learning, computer vision, and LLM systems**.
+I care about measurable results, clean pipelines, and shipping things that actually run.
+
+> Currently looking for **AI/ML internships** at companies where the engineering bar is high.
+
+---
+
+## What I've Built
+
+### 🩺 Diabetic Retinopathy Detection
+*The kind of problem where getting it wrong costs someone their vision.*
+
+Built an ensemble of **Swin Transformer + EfficientNet-B4 + DenseNet121 + ResNet50** to classify retinal images into 5 DR severity levels.
+
+- **0.92 Quadratic Weighted Kappa** on APTOS 2019 — competitive with top Kaggle submissions
+- Transfer learning from ImageNet, 3-Fold CV, Test-Time Augmentation
+- The challenge wasn't just accuracy — building a robust pipeline that doesn't overfit on a small medical dataset
+
+`PyTorch` `timm` `EfficientNet` `Swin Transformer` `Computer Vision` `Healthcare AI`
+
+---
+
+### 🗂️ Enterprise Multimodal RAG
+*Most RAG systems ignore half the document. This one doesn't.*
+
+Built a production-oriented RAG pipeline that retrieves **both text and images** from PDFs using CLIP embeddings — so when you ask about a figure in a research paper, you actually get the figure back.
+
+- Dual-framework: LangChain + LlamaIndex implementations
+- CLIP handles joint text-image semantic search — the actual differentiator
+- LLM response generation via Mistral with full retrieved context
+
+`LangChain` `LlamaIndex` `CLIP` `Mistral` `RAG` `Multimodal AI` `Vector Search`
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Core ML**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**LLM / RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Backend & Deploy**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## Right Now
+
+- 🔨 Building project #3 — adding it here soon
+- 📖 Going deeper on LLM fine-tuning, Grad-CAM explainability, and RAG evaluation
+- 🎯 Targeting AI/ML internships in **computer vision** or **LLM/RAG systems**
+- 📍 Based in Hyderabad, India
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=shlok0603&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## Let's Talk
+
+I'm always up for talking about ML research, interesting problems, or internship opportunities.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-nandwana-74b7a127b/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlok.nandwana@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
+
+</div>
