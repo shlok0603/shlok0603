@@ -94,18 +94,18 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 ---
 ## GitHub Stats
 
-<div align="center">
+## GitHub Stats
 
-<img src="https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<p align="center">
+  <img src="https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=shlok0603&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shlok0603&theme=tokyonight&hide_border=true" />
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
