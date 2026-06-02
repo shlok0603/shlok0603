@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=200&section=header&text=Shlok%20Nandwana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=58&descColor=58a6ff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+RAG;0.92+QWK+on+Diabetic+Retinopathy+Detection;Open+to+AI%2FML+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+RAG;)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-shlok.nandwana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shlok.nandwana@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shlok0603-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shlok0603)
 ![Profile Views](https://komarev.com/ghpvc/?username=shlok0603&style=flat-square&color=58a6ff&label=Profile+Views)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square)
+
 
 </div>
 
@@ -26,7 +26,7 @@ I care about measurable results, clean pipelines, and shipping things that actua
 
 ---
 
-## What I've Built
+## Things that I've Built and added up in my Resume
 
 ### 🩺 Diabetic Retinopathy Detection
 *The kind of problem where getting it wrong costs someone their vision.*
@@ -89,10 +89,8 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 
 ## Right Now
 
-- 🔨 Building project #3 — adding it here soon
 - 📖 Going deeper on LLM fine-tuning, Grad-CAM explainability, and RAG evaluation
 - 🎯 Targeting AI/ML internships in **computer vision** or **LLM/RAG systems**
-- 📍 Based in Hyderabad, India
 
 ---
 
