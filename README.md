@@ -95,7 +95,7 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok0603&theme=tokyonight" />
 
 <br><br>
 
