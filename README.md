@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=200&section=header&text=Shlok%20Nandwana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=58&descColor=58a6ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=200&section=header&text=Shlok%20Nandwana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=58&descColor=58a6ff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+RAG;)](https://git.io/typing-svg)
 
@@ -97,7 +97,7 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats-shlok0603.vercel.app/api?username=shlok0603&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
 
 <br/>
