@@ -110,11 +110,11 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 ## GitHub Trophies
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
----
 
+---
 ## Let's Talk
 
 I'm always up for talking about ML research, interesting problems, or internship opportunities.
