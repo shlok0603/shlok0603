@@ -96,16 +96,21 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-![Top Languages](https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=shlok0603&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shlok0603&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
 ---
 
 ## GitHub Trophies
