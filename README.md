@@ -96,11 +96,11 @@ Built a production-oriented RAG pipeline that retrieves **both text and images**
 
 <div align="center">
 
-<img src="https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats-shlok-dev.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br><br>
 
-<img src="https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-shlok-dev.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br><br>
 
