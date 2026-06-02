@@ -22,7 +22,6 @@ I build ML systems that work on **real problems** — not just Kaggle notebooks.
 Most of my work sits at the intersection of **deep learning, computer vision, and LLM systems**.
 I care about measurable results, clean pipelines, and shipping things that actually run.
 
-> Currently looking for **AI/ML internships** at companies where the engineering bar is high.
 
 ---
 
