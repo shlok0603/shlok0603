@@ -129,3 +129,9 @@ I'm always up for talking about ML research, interesting problems, or internship
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
 
 </div>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shlok0603/shlok0603/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
