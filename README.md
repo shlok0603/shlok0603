@@ -344,6 +344,7 @@ Production-ready Retrieval-Augmented Generation platform for intelligent documen
 
 </div>
 
+---
 
 # 🌍 Connect With Me
 
@@ -372,6 +373,7 @@ Production-ready Retrieval-Augmented Generation platform for intelligent documen
 <p align="center">
   <img src="https://raw.githubusercontent.com/shlok0603/shlok0603/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 ## 💬 Quote of the Day
@@ -379,5 +381,10 @@ Production-ready Retrieval-Augmented Generation platform for intelligent documen
 <p align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=120&section=footer"/>
 
 </p>
