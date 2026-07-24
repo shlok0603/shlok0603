@@ -2,17 +2,6 @@
   <img src="assets/terminal-banner.svg" width="100%">
 </p>
 
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#8A2BE2;">Shlok Nandwana</span>
-</h1>
-
-<h3 align="center">
-🤖 AI Engineer • 🧠 Machine Learning • 🚀 Agentic AI • 💜 Generative AI • 💬 LLMs
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Agentic+AI+Developer;Generative+AI+Explorer;Building+Real-World+AI+Solutions;Open+Source+Contributor" />
-</p>
 
 <p align="center">
 <a href="https://github.com/shlok0603">
@@ -25,10 +14,6 @@
 
 <a href="https://github.com/shlok0603">
 <img src="https://img.shields.io/github/stars/shlok0603?affiliations=OWNER&style=for-the-badge&logo=github&color=FACC15&label=STARS"/>
-</a>
-
-<a href="https://leetcode.com/u/shlok0603/">
-<img src="https://img.shields.io/badge/400%2B-DSA%20Problems-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/shlok0603">
