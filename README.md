@@ -146,7 +146,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -162,7 +162,8 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=radical&no-frame=true&row=2&column=4?username=shlok0603&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+  
 </p>
 
 ---
