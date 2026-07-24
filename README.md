@@ -228,7 +228,7 @@ Early detection and grading of **Diabetic Retinopathy** using advanced Deep Lear
 
 <p align="center">
 
-<a href="https://github.com/shlok0603/YOUR_DR_REPO">
+<a href="https://github.com/shlok0603/diabetic-retinopathy-detection">
 
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
@@ -292,7 +292,7 @@ Production-ready Retrieval-Augmented Generation platform for intelligent documen
 
 <p align="center">
 
-<a href="https://github.com/shlok0603/YOUR_RAG_REPO">
+<a href="https://github.com/shlok0603/Enterprise_Multimodal_RAG">
 
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 
