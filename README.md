@@ -119,12 +119,7 @@
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok0603&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
