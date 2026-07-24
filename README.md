@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
+Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 </h3>
 
 <p align="center">
@@ -12,16 +12,16 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<a href="https://github.com/shlok0603">
+<img src="https://komarev.com/ghpvc/?username=shlok0603&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue&label=Followers" />
+<a href="https://github.com/shlok0603?tab=followers">
+<img src="https://img.shields.io/github/followers/shlok0603?style=for-the-badge&color=blue&label=Followers" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars" />
+<a href="https://github.com/shlok0603">
+<img src="https://img.shields.io/github/stars/shlok0603?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars" />
 </a>
 
 </p>
@@ -60,19 +60,11 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shlok-nandwana-74b7a127b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:shlok.nandwana@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -85,7 +77,7 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,c#,sql" />
 </p>
 
 ---
@@ -121,10 +113,7 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 ## ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,docker" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
 </p>
 
 ---
@@ -143,7 +132,7 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 ## ☁️ Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,idea,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -154,12 +143,12 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok0603&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok0603&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -167,7 +156,7 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -175,7 +164,7 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -184,23 +173,23 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shlok0603&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shlok0603&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shlok0603&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok0603&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shlok0603&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
