@@ -136,16 +136,6 @@
 </p>
 
 ---
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=radical&no-frame=true&row=2&column=4?username=shlok0603&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
-  
-</p>
-
----
-
 # GitHub Metrics
 
 <p align="center">
@@ -171,17 +161,6 @@
 </p>
 
 ---
-
-# Coding Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-> Remove the above section if you don't use WakaTime.
-
----
-
 # Current Focus
 
 ```text
