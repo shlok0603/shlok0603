@@ -45,45 +45,20 @@
 
 ---
 
-# About Me
+# 🏅 Experience
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5cTFpcnR0bGt0bTRhdzJ0MmljYjN2Mm9jcDZvdnE4MWlyeGdrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-- AI Intern @ **BigHaat India**
+<div align="center">
 
-- Former Winter Machine Learning Trainee @ **IIT Kanpur (EICT Academy)**
+| 💼 Role | 🏢 Organization | 📅 Duration |
+|---------|-----------------|------------|
+| 🚜 AI Intern | **BigHaat India** | Present |
+| 🤖 Ex-AI Developer Intern | **Jabit Soft Pvt. Ltd.** | Feb 2026 – Jul 2026 |
+| 🎓 Winter ML Trainee | **IIT Kanpur (EICT Academy)** | Winter 2025 |
+| 📊 Ex-Machine Learning Intern | **Dzaro Solutions** | Jun 2025 – Jul 2025 |
 
-- Former AI Developer Intern @ **Jabit Soft**
-
-- Former Machine Learning Intern @ **Dzaro Solutions**
-
-- B.Tech in Information Technology @ **SKIT Jaipur (2023–2027)**
-
-- Building **AI, Agentic AI, RAG, Deep Learning & LLM-powered Applications**
-
-- Interested in **Agentic AI, Generative AI, Large Language Models, Computer Vision & MLOps**
-
-- Open Source Contributor & Continuous Learner
-
-- Ask me about **Python, Machine Learning, Deep Learning, GenAI, RAG, FastAPI, LangChain & LLMs**
-
-- Reach me at **shlok.nandwana@gmail.com**
-
----
-
-# Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shlok-nandwana-74b7a127b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shlok.nandwana@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -239,13 +214,6 @@ Fun Fact        : I enjoy solving complex DSA problems
 ```
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shlok0603/shlok0603/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -375,3 +343,41 @@ Production-ready Retrieval-Augmented Generation platform for intelligent documen
 </table>
 
 </div>
+
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shlok-nandwana-74b7a127b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/shlok0603">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:shlok.nandwana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shlok0603/shlok0603/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
