@@ -53,7 +53,7 @@
 ## Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,c#,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,mysql" />
 </p>
 
 ---
