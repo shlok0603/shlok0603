@@ -189,7 +189,7 @@ Fun Fact        : I enjoy solving complex DSA problems
 <p align="center">
 <img 
   src="https://raw.githubusercontent.com/shlok0603/shlok0603/main/assets/Healthy.png"
-  width="90%">
+  width="60%">
 </p>
 
 ### 🔬 AI-powered Medical Image Classification
