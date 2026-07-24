@@ -243,7 +243,9 @@ Early detection and grading of **Diabetic Retinopathy** using advanced Deep Lear
 ## 📚 Enterprise Multi-Modal RAG Platform
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/YOUR_RAG_IMAGE" width="100%">
+<img 
+  src="https://raw.githubusercontent.com/shlok0603/shlok0603/main/assets/rag.png"
+  width="80%">
 </p>
 
 ### 🤖 Enterprise AI Knowledge Assistant
