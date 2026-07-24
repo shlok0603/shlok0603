@@ -44,7 +44,6 @@
 </p>
 
 ---
----
 
 # About Me
 
@@ -240,5 +239,139 @@ Fun Fact        : I enjoy solving complex DSA problems
 ```
 
 ---
+## 🐍 Contribution Snake
 
-# Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shlok0603/shlok0603/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 Diabetic Retinopathy Detection
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/YOUR_DR_IMAGE" width="100%">
+</p>
+
+### 🔬 AI-powered Medical Image Classification
+
+Early detection and grading of **Diabetic Retinopathy** using advanced Deep Learning and Computer Vision techniques.
+
+### ✨ Features
+
+✅ EfficientNetB2 & Swin Transformer
+
+✅ ResNet50 Benchmark
+
+✅ Image Augmentation Pipeline
+
+✅ Automated Disease Grading
+
+✅ High Accuracy Prediction
+
+### ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/timm-blue?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/QWK-0.92-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/shlok0603/YOUR_DR_REPO">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 📚 Enterprise Multi-Modal RAG Platform
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/YOUR_RAG_IMAGE" width="100%">
+</p>
+
+### 🤖 Enterprise AI Knowledge Assistant
+
+Production-ready Retrieval-Augmented Generation platform for intelligent document search and conversational AI.
+
+### ✨ Features
+
+✅ Multi-modal PDF Ingestion
+
+✅ LangChain + LlamaIndex
+
+✅ CLIP Embeddings
+
+✅ FAISS / ChromaDB
+
+✅ Semantic Search
+
+✅ LLM-powered Question Answering
+
+### ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG-Enterprise-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/shlok0603/YOUR_RAG_REPO">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
