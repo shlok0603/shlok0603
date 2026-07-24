@@ -187,7 +187,9 @@ Fun Fact        : I enjoy solving complex DSA problems
 ## 🩺 Diabetic Retinopathy Detection
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/YOUR_DR_IMAGE" width="100%">
+<img 
+  src="https://raw.githubusercontent.com/shlok0603/shlok0603/main/assets/Healthy.png"
+  width="90%">
 </p>
 
 ### 🔬 AI-powered Medical Image Classification
