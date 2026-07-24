@@ -1,113 +1,83 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Shlok Nandwana
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=200&section=header&text=Shlok%20Nandwana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descAlignY=58&descColor=58a6ff" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Computer+Vision+%7C+Deep+Learning+%7C+RAG;)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shlok%20Nandwana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-nandwana-74b7a127b/)
-[![Email](https://img.shields.io/badge/Email-shlok.nandwana%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shlok.nandwana@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shlok0603-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shlok0603)
-![Profile Views](https://komarev.com/ghpvc/?username=shlok0603&style=flat-square&color=58a6ff&label=Profile+Views)
-
-
-</div>
-
----
-
-## About Me
-
-I build ML systems that work on **real problems** — not just Kaggle notebooks.
-Most of my work sits at the intersection of **deep learning, computer vision, and LLM systems**.
-I care about measurable results, clean pipelines, and shipping things that actually run.
-
-
----
-
-## Things that I've Built and added up in my Resume
-
-### 🩺 Diabetic Retinopathy Detection
-*The kind of problem where getting it wrong costs someone their vision.*
-
-Built an ensemble of **Swin Transformer + EfficientNet-B4 + DenseNet121 + ResNet50** to classify retinal images into 5 DR severity levels.
-
-- **0.92 Quadratic Weighted Kappa** on APTOS 2019 — competitive with top Kaggle submissions
-- Transfer learning from ImageNet, 3-Fold CV, Test-Time Augmentation
-- The challenge wasn't just accuracy — building a robust pipeline that doesn't overfit on a small medical dataset
-
-`PyTorch` `timm` `EfficientNet` `Swin Transformer` `Computer Vision` `Healthcare AI`
-
----
-
-### 🗂️ Enterprise Multimodal RAG
-*Most RAG systems ignore half the document. This one doesn't.*
-
-Built a production-oriented RAG pipeline that retrieves **both text and images** from PDFs using CLIP embeddings — so when you ask about a figure in a research paper, you actually get the figure back.
-
-- Dual-framework: LangChain + LlamaIndex implementations
-- CLIP handles joint text-image semantic search — the actual differentiator
-- LLM response generation via Mistral with full retrieved context
-
-`LangChain` `LlamaIndex` `CLIP` `Mistral` `RAG` `Multimodal AI` `Vector Search`
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Core ML**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**LLM / RAG**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Backend & Deploy**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## Right Now
-
-- 📖 Going deeper on LLM fine-tuning, Grad-CAM explainability, and RAG evaluation
-- 🎯 Targeting AI/ML internships in **computer vision** or **LLM/RAG systems**
----
-## Let's Talk
-
-I'm always up for talking about ML research, interesting problems, or internship opportunities.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-nandwana-74b7a127b/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlok.nandwana@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
-
-</div>
-
-## Contribution Snake
+<h3 align="center">
+AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shlok0603/shlok0603/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Agentic+AI+Developer;Generative+AI+Explorer;Building+Real+World+AI+Solutions;Always+Learning+Something+New" />
 </p>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue&label=Followers" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars" />
+</a>
+
+</p>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5cTFpcnR0bGt0bTRhdzJ0MmljYjN2Mm9jcDZvdnE4MWlyeGdrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
+
+- 🚜 AI Intern @ **BigHaat India**
+
+- 🎓 Former Winter Machine Learning Trainee @ **IIT Kanpur (EICT Academy)**
+
+- 🤖 Former AI Developer Intern @ **Jabit Soft**
+
+- 📊 Former Machine Learning Intern @ **Dzaro Solutions**
+
+- 🎓 B.Tech in Information Technology @ **SKIT Jaipur (2023–2027)**
+
+- 🚀 Building **AI, Agentic AI, RAG, Deep Learning & LLM-powered Applications**
+
+- 🧠 Interested in **Agentic AI, Generative AI, Large Language Models, Computer Vision & MLOps**
+
+- 💻 Solved **400+ DSA Problems** across LeetCode & GeeksforGeeks
+
+- 🌱 Open Source Contributor & Continuous Learner
+
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, GenAI, RAG, FastAPI, LangChain & LLMs**
+
+- 📫 Reach me at **your_email@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
