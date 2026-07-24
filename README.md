@@ -81,3 +81,74 @@ AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 ---
 
 # 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/SentenceTransformers-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 Agentic AI & LLMs
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qwen-7A3FF2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0088CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Embeddings-6A5ACD?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,docker" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄️ Databases & Vector Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+---
+
+## ☁️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,idea,anaconda" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
