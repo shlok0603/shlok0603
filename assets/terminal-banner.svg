@@ -1,0 +1,213 @@
+<svg width="1400" height="500" viewBox="0 0 1400 500" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#09090B"/>
+<stop offset="100%" stop-color="#0F172A"/>
+</linearGradient>
+
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%">
+<stop offset="0%" stop-color="#7C3AED"/>
+<stop offset="100%" stop-color="#38BDF8"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1400" height="500" fill="url(#bg)"/>
+
+<rect
+x="20"
+y="20"
+rx="18"
+ry="18"
+width="1360"
+height="460"
+fill="#0D1117"
+stroke="#334155"
+stroke-width="2"/>
+
+<circle cx="55" cy="45" r="6" fill="#60A5FA"/>
+<circle cx="75" cy="45" r="6" fill="#64748B"/>
+<circle cx="95" cy="45" r="6" fill="#64748B"/>
+
+<text
+x="700"
+y="48"
+fill="#CBD5E1"
+font-size="18"
+font-family="monospace"
+text-anchor="middle">
+
+shlok0603@github ~ $
+
+</text>
+
+<text
+x="1270"
+y="48"
+fill="#38BDF8"
+font-size="18"
+font-family="monospace">
+
+● BUILDING
+
+</text>
+
+<rect
+x="40"
+y="70"
+width="560"
+height="350"
+rx="15"
+fill="#0F172A"
+stroke="#334155"/>
+
+<text
+x="60"
+y="95"
+fill="#94A3B8"
+font-size="18"
+font-family="monospace">
+
+PORTRAIT / SHLOK
+
+</text>
+
+<text
+x="120"
+y="150"
+fill="#93C5FD"
+font-size="10"
+font-family="monospace">
+
+████████████████████████████████████
+
+███████░░░░░░░░█████████████████████
+
+████░░░░████░░░░████████████████████
+
+███░░██████████░░███████████████████
+
+██░░████████████░░██████████████████
+
+██░██████████████░██████████████████
+
+██░██████████████░██████████████████
+
+██░░████████████░░██████████████████
+
+███░░██████████░░███████████████████
+
+████░░░██████░░░████████████████████
+
+██████░░░░░░░███████████████████████
+
+████████████████████████████████████
+
+</text>
+
+<rect
+x="620"
+y="70"
+width="740"
+height="350"
+rx="15"
+fill="#111827"
+stroke="#334155"/>
+
+<text
+x="640"
+y="100"
+fill="#E2E8F0"
+font-size="18"
+font-family="monospace">
+
+PROFILE / AI ENGINEER
+
+</text>
+
+<text
+x="640"
+y="135"
+fill="#FFFFFF"
+font-size="18"
+font-family="monospace">
+
+shlok0603
+
+</text>
+
+<line
+x1="760"
+y1="130"
+x2="1320"
+y2="130"
+stroke="#475569"
+stroke-dasharray="6"/>
+
+<text x="650" y="170" fill="#60A5FA" font-size="15" font-family="monospace">Name</text>
+<text x="790" y="170" fill="#FFFFFF" font-size="15" font-family="monospace">Shlok Nandwana</text>
+
+<text x="650" y="200" fill="#60A5FA" font-size="15" font-family="monospace">Role</text>
+<text x="790" y="200" fill="#FFFFFF" font-size="15" font-family="monospace">AI Engineer</text>
+
+<text x="650" y="230" fill="#60A5FA" font-size="15" font-family="monospace">Education</text>
+<text x="790" y="230" fill="#FFFFFF" font-size="15" font-family="monospace">B.Tech IT • SKIT Jaipur</text>
+
+<text x="650" y="260" fill="#60A5FA" font-size="15" font-family="monospace">Current</text>
+<text x="790" y="260" fill="#FFFFFF" font-size="15" font-family="monospace">AI Intern @ BigHaat</text>
+
+<text
+x="650"
+y="305"
+fill="#94A3B8"
+font-size="16"
+font-family="monospace">
+
+BUILD.FOCUS
+
+</text>
+
+<line
+x1="650"
+y1="315"
+x2="1320"
+y2="315"
+stroke="#475569"
+stroke-dasharray="6"/>
+
+<text x="660" y="345" fill="#FFFFFF" font-size="15" font-family="monospace">• Agentic AI</text>
+
+<text x="660" y="372" fill="#FFFFFF" font-size="15" font-family="monospace">• Enterprise RAG</text>
+
+<text x="660" y="399" fill="#FFFFFF" font-size="15" font-family="monospace">• Computer Vision</text>
+
+<text x="930" y="345" fill="#FFFFFF" font-size="15" font-family="monospace">• LLM Engineering</text>
+
+<text x="930" y="372" fill="#FFFFFF" font-size="15" font-family="monospace">• Deep Learning</text>
+
+<text x="930" y="399" fill="#FFFFFF" font-size="15" font-family="monospace">• MLOps</text>
+
+<text
+x="700"
+y="455"
+fill="url(#accent)"
+font-size="17"
+font-family="monospace"
+text-anchor="middle"
+filter="url(#glow)">
+
+BUILDING REAL-WORLD AI SYSTEMS
+
+</text>
+
+</svg>
