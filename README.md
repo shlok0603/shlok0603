@@ -28,35 +28,33 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 💫 About Me
+# About Me
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5cTFpcnR0bGt0bTRhdzJ0MmljYjN2Mm9jcDZvdnE4MWlyeGdrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-- 🚜 AI Intern @ **BigHaat India**
+- AI Intern @ **BigHaat India**
 
-- 🎓 Former Winter Machine Learning Trainee @ **IIT Kanpur (EICT Academy)**
+- Former Winter Machine Learning Trainee @ **IIT Kanpur (EICT Academy)**
 
-- 🤖 Former AI Developer Intern @ **Jabit Soft**
+- Former AI Developer Intern @ **Jabit Soft**
 
-- 📊 Former Machine Learning Intern @ **Dzaro Solutions**
+- Former Machine Learning Intern @ **Dzaro Solutions**
 
-- 🎓 B.Tech in Information Technology @ **SKIT Jaipur (2023–2027)**
+- B.Tech in Information Technology @ **SKIT Jaipur (2023–2027)**
 
-- 🚀 Building **AI, Agentic AI, RAG, Deep Learning & LLM-powered Applications**
+- Building **AI, Agentic AI, RAG, Deep Learning & LLM-powered Applications**
 
-- 🧠 Interested in **Agentic AI, Generative AI, Large Language Models, Computer Vision & MLOps**
+- Interested in **Agentic AI, Generative AI, Large Language Models, Computer Vision & MLOps**
 
-- 💻 Solved **400+ DSA Problems** across LeetCode & GeeksforGeeks
+- Open Source Contributor & Continuous Learner
 
-- 🌱 Open Source Contributor & Continuous Learner
+- Ask me about **Python, Machine Learning, Deep Learning, GenAI, RAG, FastAPI, LangChain & LLMs**
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, GenAI, RAG, FastAPI, LangChain & LLMs**
-
-- 📫 Reach me at **your_email@gmail.com**
+- Reach me at **shlok.nandwana@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -72,9 +70,9 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-## 👨‍💻 Programming Languages
+## Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,c#,sql" />
@@ -82,7 +80,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -97,7 +95,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-## 🧠 Agentic AI & LLMs
+## Agentic AI & LLMs
 
 <p align="left">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -110,7 +108,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
@@ -118,7 +116,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-## 🗄️ Databases & Vector Databases
+## Databases & Vector Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
@@ -129,7 +127,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-## ☁️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm" />
@@ -140,7 +138,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shlok0603&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -153,7 +151,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok0603&theme=tokyo-night&hide_border=true&area=true"/>
@@ -161,7 +159,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shlok0603&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
@@ -169,7 +167,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# ⚡ GitHub Metrics
+# GitHub Metrics
 
 <p align="center">
 
@@ -195,7 +193,7 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 🚀 Coding Activity
+# Coding Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
@@ -205,23 +203,23 @@ Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
 
 ---
 
-# 🔥 Current Focus
+# Current Focus
 
 ```text
-🌱 Learning        : Agentic AI • Multi-Agent Systems • MLOps
+Learning        : Agentic AI • Multi-Agent Systems • MLOps
 
-🔭 Working On      : Enterprise AI Applications
+Working On      : Enterprise AI Applications
 
-💬 Ask Me About    : Python • Machine Learning • Deep Learning
+Ask Me About    : Python • Machine Learning • Deep Learning
                      Generative AI • RAG • LangChain
                      FastAPI • LLMs • Computer Vision
 
-🎯 Goal 2026       : AI Engineer Internship @ Top Product Company
+Goal 2026       : AI Engineer Internship @ Top Product Company
 
-⚡ Fun Fact        : I enjoy solving complex DSA problems
+Fun Fact        : I enjoy solving complex DSA problems
                      and building AI that solves real-world challenges.
 ```
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
