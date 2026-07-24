@@ -1,31 +1,49 @@
 <h1 align="center">
-  Hi 👋, I'm Shlok Nandwana
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#8A2BE2;">Shlok Nandwana</span>
 </h1>
 
 <h3 align="center">
-Aspiring AI Engineer | Machine Learning | Agentic AI | Generative AI | LLMs
+🤖 AI Engineer • 🧠 Machine Learning • 🚀 Agentic AI • 💜 Generative AI • 💬 LLMs
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Agentic+AI+Developer;Generative+AI+Explorer;Building+Real+World+AI+Solutions;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Agentic+AI+Developer;Generative+AI+Explorer;Building+Real-World+AI+Solutions;Open+Source+Contributor" />
 </p>
 
 <p align="center">
-
 <a href="https://github.com/shlok0603">
-<img src="https://komarev.com/ghpvc/?username=shlok0603&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shlok0603&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/shlok0603?tab=followers">
-<img src="https://img.shields.io/github/followers/shlok0603?style=for-the-badge&color=blue&label=Followers" />
+<img src="https://img.shields.io/github/followers/shlok0603?logo=github&style=for-the-badge&color=0EA5E9&label=FOLLOWERS"/>
 </a>
 
 <a href="https://github.com/shlok0603">
-<img src="https://img.shields.io/github/stars/shlok0603?affiliations=OWNER&style=for-the-badge&color=yellow&label=Stars" />
+<img src="https://img.shields.io/github/stars/shlok0603?affiliations=OWNER&style=for-the-badge&logo=github&color=FACC15&label=STARS"/>
+</a>
+
+<a href="https://leetcode.com/u/shlok0603/">
+<img src="https://img.shields.io/badge/400%2B-DSA%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/shlok0603">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
 </a>
 
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+</p>
+
+---
 ---
 
 # About Me
