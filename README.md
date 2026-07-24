@@ -35,9 +35,6 @@
 ---
 
 # 🏅 Experience
-
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5cTFpcnR0bGt0bTRhdzJ0MmljYjN2Mm9jcDZvdnE4MWlyeGdrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
-
 <div align="center">
 
 | 💼 Role | 🏢 Organization | 📅 Duration |
