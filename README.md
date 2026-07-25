@@ -40,9 +40,9 @@
 | 💼 Role | 🏢 Organization | 📅 Duration |
 |---------|-----------------|------------|
 | 🚜 AI Intern | **BigHaat India** | Present |
-| 🤖 Ex-AI Developer Intern | **Jabit Soft Pvt. Ltd.** | Feb 2026 – Jul 2026 |
+| 🤖 AI Developer Intern | **Jabit Soft Pvt. Ltd.** | Feb 2026 – Jul 2026 |
 | 🎓 Winter ML Trainee | **IIT Kanpur (EICT Academy)** | Winter 2025 |
-| 📊 Ex-Machine Learning Intern | **Dzaro Solutions** | Jun 2025 – Jul 2025 |
+| 📊 Machine Learning Intern | **Dzaro Solutions** | Jun 2025 – Jul 2025 |
 
 </div>
 
@@ -53,7 +53,7 @@
 ## Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql,c" />
 </p>
 
 ---
